@@ -9,14 +9,12 @@ IntelliSurf/
 ├── src/
 │   └── intellisurf/
 │       └── Main.java
-├── users.txt
 ├── IntelliSurf.iml
 ├── README.md
 └── .idea/ (IDE config)
 ```
 
 - **src/intellisurf/Main.java**: Main application source code, organized in the `intellisurf` package.
-- **users.txt**: Stores user credentials (created at runtime).
 - **IntelliSurf.iml**: IntelliJ IDEA module file.
 - **.idea/**: IDE configuration files.
 
