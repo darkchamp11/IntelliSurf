@@ -31,3 +31,7 @@ bin/
 /packages/*
 
 /.idea/*
+
+### Sensitive / Local ###
+users.txt
+config.properties
